@@ -1,0 +1,11 @@
+{
+    "name": "Josh Cep",
+    "age": "33",
+    "city": "Silverdale, WA",
+    "interests": [
+        "Video Games",
+        "Anime",
+        "Family Trips"
+    ],
+    "is_student": true
+}
